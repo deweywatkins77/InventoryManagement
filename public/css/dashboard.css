@@ -177,7 +177,7 @@ p{
 background-color: rgba(228, 235, 235, 0.407);
 width: 100vh;
 height: 1050px;
-margin-left: 150px;
+margin: auto;
 }
 
 #dropdown{
