@@ -13,7 +13,7 @@ The objective behind building this application was to provide an easy to use too
 This application is designed to be run in a web browser. To get started, clone the repository and install the necessary packages by running "npm i". Then, navigate to the /db source directory and use mysql to run the schema.sql file, which will create the required database. Once the database is set up, run "npm run seed" to create the tables from the main directory. Finally, start the application by running "npm start", and you will be provided with a local link to access the application in your web browser.
 
 ## Deployment Link
-Please click on the link bellow to see the app in action.
+Please click here to see the app in action.
 https://invmanagement.herokuapp.com/
 
 ## Usage
