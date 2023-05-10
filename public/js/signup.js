@@ -12,7 +12,7 @@ const signup= async (event) => {
         headers: { 'Content-Type': 'application/json' },
       });
       if (response.ok) {
-        document.location.replace('/dashboard');
+        document.location.replace('/');
       } else {
         errorData = await response.json();
         alert(errorData.message);
